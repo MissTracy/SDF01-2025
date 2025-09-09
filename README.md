@@ -1,4 +1,3 @@
-# [SDF01] Challenge: My First Repo 🚀
 
 # 👋 Hi, I'm Tracy Lethoko
 
@@ -8,7 +7,9 @@
 
 ## 🎯 About Me
 
-- 💡 I'm currently refreshing **GitHub and version control** skills, before diving into coding.
+
+- 📌 I'm currently exploring **front end development**.
+- 💡 I'm currently refreshing my **GitHub and version control** skills.
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
 - 🤖 I love problem-solving and working on creative projects.
 - 🔥 Looking forward to building real-world applications.
@@ -17,7 +18,7 @@
 
 ## 🛠️ Tech Stack
 
-**Currently learning:**
+**Currently looking at:**
 
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -41,11 +42,11 @@
 
 ## 📌 Projects
 
-Here are some of my milestone projects (to be updated as I progress!):
+Here are some of my front end projects (to be updated as I progress!):
 
-### **1️⃣ First GitHub Project**
+### **1️⃣ Refresher GitHub Project**
 
-🔹 **Description:** My first project using GitHub to manage files.  
+🔹 **Description:** Refresher using GitHub to manage files.  
 🔹 **Status:** ✅ Completed
 
 ### **2️⃣ Personal Portfolio** (Coming Soon!)
@@ -59,7 +60,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 ## 📚 Learning Goals
 
 - 🚀 Get comfortable using Git and GitHub
-- 🎨 Learn HTML, CSS, and JavaScript
+- 🎨 Deep dive into HTML, CSS, and JavaScript
 - 💡 Build real-world projects and collaborate with others
 
 ---
