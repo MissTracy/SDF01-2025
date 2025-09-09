@@ -8,7 +8,7 @@
 
 ## 🎯 About Me
 
-- 💡 I'm currently refreshing **GitHub and version control** before diving into coding.
+- 💡 I'm currently refreshing **GitHub and version control** skills, before diving into coding.
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
 - 🤖 I love problem-solving and working on creative projects.
 - 🔥 Looking forward to building real-world applications.
@@ -68,7 +68,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MissTracy)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tracylethoko/)  
-📧 Email: lethoko.tracy@gmail.com
+📧 lethoko.tracy@gmail.com
 
 ---
 
@@ -80,4 +80,6 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MissTracy&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=stars,prs,contribs)
+
+
